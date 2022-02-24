@@ -54,7 +54,7 @@ df_temp
 
 st.bar_chart(df_temp,
              width=600,
-             height=500)
+             height=400)
 
 
 
